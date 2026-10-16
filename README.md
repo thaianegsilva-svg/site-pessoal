@@ -1,6 +1,6 @@
 # Thaiane Siao — Portfólio
 
-Site pessoal estático de apresentação e portfólio. HTML, CSS e JavaScript, sem dependências de build. Conteúdo e imagens de projetos baseados no perfil público [Behance](https://www.behance.net/thaianesilva3). LinkedIn confirmado pelo solicitante: https://www.linkedin.com/in/thaiane-siao.
+Site pessoal estático de apresentação e portfólio. HTML, CSS e JavaScript, sem dependências de build. Conteúdo e imagens de projetos baseados no perfil público [Behance](https://www.behance.net/thaianesilva3). Trajetória e especialidades também verificadas no perfil LinkedIn: https://www.linkedin.com/in/thaiane-siao.
 
 ## Visualização local
 
